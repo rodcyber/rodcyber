@@ -1,4 +1,4 @@
-### Hi there 👋
+## Oi eu sou o Rodrigo, estou aumentando o meu conhecimento em programação e tecnologia! 👋
 
 <!--
 **rodcyber/rodcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
